@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Agentic AI.
 - 💞️ I’m looking to collaborate on deep learning projects that contribute towards the research.
 - 📫 How to reach me? You can reach me here in linkedin [](https://www.linkedin.com/in/hemanth21k/)
-- If you are wondering why my github is so empty, is because this is my personal github, and most of the applications I make goes to the company.
