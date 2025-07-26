@@ -2,4 +2,4 @@
 - 👀 I’m interested in Deep Learning, computer vision and NLP.
 - 🌱 I’m currently learning Agentic AI.
 - 💞️ I’m looking to collaborate on deep learning projects that contribute towards the research.
-- 📫 How to reach me? You can reach me here in  [linkedin](https://www.linkedin.com/in/hemanth21k/)
+- 📫 How to reach me? You can reach me here on  [linkedin](https://www.linkedin.com/in/hemanth21k/)
